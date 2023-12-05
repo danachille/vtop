@@ -6,6 +6,10 @@ vtop is a system monitoring tool using GTK to visualize CPU, disk, and RAM/swap 
 ## Project Structure
 The project tree looks like this:
 
+## Project Tree Structure
+
+```
+.
 |-- Makefile
 |-- README.md
 |-- src
@@ -18,6 +22,8 @@ The project tree looks like this:
 |   |-- process.h
 |   |-- ram_swap.c
 |   |-- ram_swap.h
+```
+
 
 ## Installation (GTK for Debian-based OS)
 
